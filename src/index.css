@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer components {
+    .navbar-item {
+        @apply  hover:bg-yellow-500
+                hover:rounded-xl
+                cursor-pointer
+                transition-all duration-200 ease-linear; 
+    }
+}

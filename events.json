@@ -1,0 +1,50 @@
+[
+  {
+    "id": "afcbc5f1-e72c-43bb-8163-dcb6980aa1af",
+    "name": "Sloga",
+    "location": "Mehmeda Spahe 20",
+    "date": "13.05.2022",
+    "type": "club",
+    "time": "Start at 20:00h"
+  },
+  {
+    "id": "abb8934a-9fef-4d86-b8ee-35924670053c",
+    "name": "Pivnica",
+    "location": "Mehmeda Spahe 20",
+    "date": "13.05.2022",
+    "time": "Start at 20:00h",
+    "type": "pub"
+  },
+  {
+    "id": "94e1d177-7877-4199-89f2-3439064997d0",
+    "name": "Theatar",
+    "location": "Mehmeda Spahe 20",
+    "date": "13.05.2022",
+    "type": "caffe",
+    "time": "Start at 20:00h"
+  },
+  {
+    "id": "e17d03d1-a0ad-41ea-80ab-4d2402e4a027",
+    "name": "Dorian Gray",
+    "location": "Mehmeda Spahe 20",
+    "date": "13.05.2022",
+    "type": "club",
+    "time": "Start at 20:00h"
+  },
+  {
+    "id": "78bb5a7d-c70c-445b-ab1c-db1127011b8e",
+    "name": "Kino Bosna",
+    "location": "Mehmeda Spahe 20",
+    "date": "13.05.2022",
+    "type": "club",
+    "time": "Start at 20:00h"
+  },
+  {
+    "id": "cb4dba8b-9957-47b4-bfac-8a136e5514d2",
+    "name": "City Lounge",
+    "location": "Zelenih Beretki 14",
+    "date": "13.05.2022",
+    "type": "pub",
+    "time": "Start at 20:00h"
+  }
+]
